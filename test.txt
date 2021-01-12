@@ -6,3 +6,4 @@ done with the changes on new branch
 
 squash commit 1
 squash commit 2
+squash commit 3
