@@ -3,3 +3,5 @@ added to new branch
 new branch
 
 done with the changes on new branch
+
+squash commit 1
